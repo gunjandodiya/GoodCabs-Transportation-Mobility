@@ -12,6 +12,8 @@ The GoodCabs Project involves creating a Power BI Dashboard to analyze and visua
 
 • Target Performance
 
+• Insights
+
 ## Objectives
 1. Enhance Operational Transparency: Deliver a clear picture of daily business activities.
 2. Track Performance Indicators: Measure critical metrics such as revenue, customer engagement, and ratings.
