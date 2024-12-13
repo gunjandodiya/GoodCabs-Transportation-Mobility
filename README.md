@@ -33,7 +33,6 @@ The GoodCabs Project involves creating a Power BI Dashboard to analyze and visua
 
 Interactive dashboard link : https://app.powerbi.com/groups/me/reports/6f9fea92-7f2b-4e92-9f2b-5fae22b6cc2a/79416bf0a280d32d6007?experience=power-bi
 
-Linkedin post link : 
 
 ## Tools & Techniques Utilized:
 • 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 & 𝗘𝘅𝗰𝗲𝗹: Created an interactive dashboard and performed comprehensive data analysis.
