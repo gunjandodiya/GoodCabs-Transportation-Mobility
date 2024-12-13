@@ -1,5 +1,7 @@
 # GoodCabs-Transportation-Mobility
 
+Excited to share my experience and learnings from the **Goodcabs Operations Analytics Project**, a fantastic journey as part of the Codebasics Resume Project Challenge 13! 🎉 
+
 ## Problem Statement
 Goodcabs, a cab service company focusing on tier-2 cities, aims to evaluate its 2024 performance by analyzing key metrics such as trip volume, passenger satisfaction, repeat passenger rate, and trip distribution. Committed to supporting local drivers and delivering excellent passenger service, Goodcabs seeks actionable insights to enhance growth strategies and improve overall satisfaction levels.
 
@@ -28,6 +30,10 @@ The GoodCabs Project involves creating a Power BI Dashboard to analyze and visua
 • 𝗟𝗼𝘆𝗮𝗹𝘁𝘆 𝗠𝗲𝘁𝗿𝗶𝗰𝘀: Investigated repeat passenger rates to derive actionable insights on retention and loyalty.
 
 • 𝗚𝗿𝗼𝘄𝘁𝗵 𝗣𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹: Balanced analysis of new and returning passengers to uncover growth opportunities.
+
+Interactive dashboard link : https://app.powerbi.com/groups/me/reports/6f9fea92-7f2b-4e92-9f2b-5fae22b6cc2a/79416bf0a280d32d6007?experience=power-bi
+
+Linkedin post link : 
 
 ## Tools & Techniques Utilized:
 • 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 & 𝗘𝘅𝗰𝗲𝗹: Created an interactive dashboard and performed comprehensive data analysis.
