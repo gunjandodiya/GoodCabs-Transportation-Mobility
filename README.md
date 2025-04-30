@@ -31,7 +31,7 @@ The GoodCabs Project involves creating a Power BI Dashboard to analyze and visua
 
 • 𝗚𝗿𝗼𝘄𝘁𝗵 𝗣𝗼𝘁𝗲𝗻𝘁𝗶𝗮𝗹: Balanced analysis of new and returning passengers to uncover growth opportunities.
 
-Interactive dashboard link : https://app.powerbi.com/groups/me/reports/6f9fea92-7f2b-4e92-9f2b-5fae22b6cc2a/79416bf0a280d32d6007?experience=power-bi
+Interactive dashboard link : [https://app.powerbi.com/groups/me/reports/6f9fea92-7f2b-4e92-9f2b-5fae22b6cc2a/79416bf0a280d32d6007?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiNWY4NDgwY2EtOGRlMC00YjBjLWFkOGQtN2QwZTdiMWEzNTUyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Linkedin post link : https://www.linkedin.com/feed/update/urn:li:activity:7273299951072243712/
 
